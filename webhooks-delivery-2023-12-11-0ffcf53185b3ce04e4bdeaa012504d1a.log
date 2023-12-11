@@ -1,0 +1,1692 @@
+
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c26dd99820299-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:14:02+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 84ecdfb8befc5029b8c25d4076c6d844
+            [Date] => 11 Déc 2023 @ 8:14
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.29535
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => KRPWHi1XspfJAuKTuv1/lUj8gjFrwrNoggAroU62RyA=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 84ecdfb8befc5029b8c25d4076c6d844
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:14:02 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c4592ee786f1b-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:18:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 393006976c2443e99893e9a201aadccf
+            [Date] => 11 Déc 2023 @ 8:18
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.20565
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ahH+fwW903i7FfTfAjPR/OSUpqg4ObFhChGVlrfptAo=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => 393006976c2443e99893e9a201aadccf
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:18:58 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c4cca2bd0d3e0-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:18:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => abc54ad78bd72623d3586188f4019ae5
+            [Date] => 11 Déc 2023 @ 8:18
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.07321
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => ahH+fwW903i7FfTfAjPR/OSUpqg4ObFhChGVlrfptAo=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => abc54ad78bd72623d3586188f4019ae5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:18:58 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c4ccacc0c018c-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:28:02+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ceba07969cea73ffda1cac880377b59c
+            [Date] => 11 Déc 2023 @ 8:28
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.21134
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => rMVFn8VdHmItvGm+q/cS2USSxoFm2WSMlFS71PI/JC8=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => ceba07969cea73ffda1cac880377b59c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:28:02 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c5a13ce477005-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:28:02+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 519842a6b1a465aab9ab456d444b8b80
+            [Date] => 11 Déc 2023 @ 8:28
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.08971
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 9LLaIjRRtJLXzsBcjSg2DzRg+AbvSAcVpg1GxtrSMwQ=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => 519842a6b1a465aab9ab456d444b8b80
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:28:02 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c5a147cb700d0-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:29:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4f37aa224c6dbec4e361b5b8da5c4b0e
+            [Date] => 11 Déc 2023 @ 8:29
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.22251
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => y3sN18UnzVtNxbsqujoHKrKhMgIXf4dtebwA2TDddEU=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 4f37aa224c6dbec4e361b5b8da5c4b0e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:29:46 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c5c9a6d16d6f6-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:36:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 53cca0f4ebeb2bc59049b1293b49af1d
+            [Date] => 11 Déc 2023 @ 8:36
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.20719
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => rIw7iAC41VCCjWRscV3zMzn5AWU5k0203p0i4u3M2is=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => 53cca0f4ebeb2bc59049b1293b49af1d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:36:46 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c66e01fc8021a-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:36:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 30ee14f7fbd5562bbcd4c07e472e68e5
+            [Date] => 11 Déc 2023 @ 8:36
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.06563
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => rIw7iAC41VCCjWRscV3zMzn5AWU5k0203p0i4u3M2is=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 30ee14f7fbd5562bbcd4c07e472e68e5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:36:46 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c66e09d5cd512-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:41:03+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 126b027d47e46872919eb9cb2505ddd1
+            [Date] => 11 Déc 2023 @ 8:41
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.23636
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 5Ic6x+/30kHn8JFxdXX715McyZB42Y8l++fY6YRpZ+Q=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => 126b027d47e46872919eb9cb2505ddd1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:41:03 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c6d269dba049e-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:46:06+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 655a567c54850dfe6f0b4d694acaf16a
+            [Date] => 11 Déc 2023 @ 8:46
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.42435
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => t1/GQq0rkb0GMg2Fza4qHxCF6w51eX0kT0Vxxy80vEs=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => 655a567c54850dfe6f0b4d694acaf16a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:46:06 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c748d6d646ed5-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:49:40+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 18516fd6df34c509f7609ad245a64918
+            [Date] => 11 Déc 2023 @ 8:49
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.2141
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => N/1gmyr6FMQ5FJcX+vznFjSjvafiDVMDaWK7sCOh8Fs=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 18516fd6df34c509f7609ad245a64918
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:49:40 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c79c1dd8f6ef7-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T08:49:40+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a0e99aa51b7e74dbce0f86d824546a3a
+            [Date] => 11 Déc 2023 @ 8:49
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.08518
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => z0xwNhWKVKuygYLfpo1hpnwklX1yGeIC92UPzEbEdZg=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => a0e99aa51b7e74dbce0f86d824546a3a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 08:49:40 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c79c25f34021a-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:05:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fb8a2d3503b14cf37851496dfa5e3b6c
+            [Date] => 11 Déc 2023 @ 9:05
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.20228
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 7fQWiTua07uRuqQOD5W6qMwv0ZgBnu07i05+N1umpfw=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => fb8a2d3503b14cf37851496dfa5e3b6c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:05:59 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c91aaef576f82-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:05:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 61e2441b8a3e2b8230c4fc2415d50365
+            [Date] => 11 Déc 2023 @ 9:05
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.08247
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 7fQWiTua07uRuqQOD5W6qMwv0ZgBnu07i05+N1umpfw=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 61e2441b8a3e2b8230c4fc2415d50365
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:05:59 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c91ab5c78d337-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:13:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 8b544a41b4dae34e4e82f41e7ff4869a
+            [Date] => 11 Déc 2023 @ 9:13
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.22394
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => XlYfVVOPDWJV7KDYVTRR8Kd1imWGiG3H/wTwIO03W8U=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => 8b544a41b4dae34e4e82f41e7ff4869a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:13:58 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833c9d5b5e803cb0-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:27:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 74318f64f9f8f55d211238757f3b759a
+            [Date] => 11 Déc 2023 @ 9:27
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.21388
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 8aYWpz1rv0K2o3D7pEoz30iQx3BGeXBHOblO8ckmrYw=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => 74318f64f9f8f55d211238757f3b759a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:27:49 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cb1a38dba0363-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:27:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 12615791ce5d4ebafe9b76765e95dbff
+            [Date] => 11 Déc 2023 @ 9:27
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.07919
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 8aYWpz1rv0K2o3D7pEoz30iQx3BGeXBHOblO8ckmrYw=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 12615791ce5d4ebafe9b76765e95dbff
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:27:49 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cb1a40f69f196-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:31:02+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1529b8ffb45d60e31657504ccbec9ec0
+            [Date] => 11 Déc 2023 @ 9:31
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.1733
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => EeoBdO0yvSZetLlW17+34Y+4jyYrHEgqfZqP5hC+Tw0=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 1529b8ffb45d60e31657504ccbec9ec0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:31:02 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cb65df8fb6ef9-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:34:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f996e225f2b313cff5ad71d48e9de00b
+            [Date] => 11 Déc 2023 @ 9:34
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.35152
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => UGeILeSQO0y6v34apYwlyn4w9guQGpd37ik4IX/4kvM=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => f996e225f2b313cff5ad71d48e9de00b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:34:49 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cbbe55c010090-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:34:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 765f314482a53145b438c3942bdd9f2e
+            [Date] => 11 Déc 2023 @ 9:34
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.0738
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => UGeILeSQO0y6v34apYwlyn4w9guQGpd37ik4IX/4kvM=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 765f314482a53145b438c3942bdd9f2e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:34:49 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cbbe5cb1103ef-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:45:03+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c9f9facfd02b628ec0d4bad017fca938
+            [Date] => 11 Déc 2023 @ 9:45
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.22144
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => dQGZXdMfYfnrsh5sNkVuK7Dc0otCkGM7rfzN9NiP4Kc=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => c9f9facfd02b628ec0d4bad017fca938
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:45:03 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833ccae29cb82a22-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T09:50:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 480805b945f464c3ffbdab3a64a564a9
+            [Date] => 11 Déc 2023 @ 9:50
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.28711
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => VjtBZzlnRAnSETojHfGurxncuOF4tFVuungn5wf9RvM=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => 480805b945f464c3ffbdab3a64a564a9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 09:50:57 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cd38a7bfa01ef-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:05:04+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f8ee273c837966c0f099f0ef4748fa11
+            [Date] => 11 Déc 2023 @ 10:05
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.24879
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => Lf3hRW4KxaP4Nws12WfskM0hmFe5LCBr1TPxOOZAA3c=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => f8ee273c837966c0f099f0ef4748fa11
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:05:04 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833ce8363b803ce3-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:12:52+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a5dcd5568df37ff357ddf50e0d3a2075
+            [Date] => 11 Déc 2023 @ 10:12
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.44267
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => U2asBm+vhgHXEiqYUohIoldd5FX0ZY6d8jQ0nuZdngY=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => a5dcd5568df37ff357ddf50e0d3a2075
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:12:52 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cf3a2ca73700b-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:12:52+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 708fc24d97e44d63c4eb69d6710cc0c9
+            [Date] => 11 Déc 2023 @ 10:12
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.09187
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => U2asBm+vhgHXEiqYUohIoldd5FX0ZY6d8jQ0nuZdngY=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 708fc24d97e44d63c4eb69d6710cc0c9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:12:52 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cf3a34c607836-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:18:03+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 78a0c3e83bbe0c90e314f80923176f9d
+            [Date] => 11 Déc 2023 @ 10:18
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.20072
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => Q32CqBDlYoTLokKSZiwVWGaeemTn0lmY88pC/6mqN0c=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 78a0c3e83bbe0c90e314f80923176f9d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:18:03 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cfb3bc8ec6f81-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:18:03+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f6435998afc88a15a9e47fd54cf1296e
+            [Date] => 11 Déc 2023 @ 10:18
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.08239
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => Q0ofmj1PWzMTsFbdY5DZ/8mJopJlbLRm2Gjbk9SF85w=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => f6435998afc88a15a9e47fd54cf1296e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:18:03 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833cfb3c590f6f94-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:25:00+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 30d76f704f23f7daf92ae61f6484224f
+            [Date] => 11 Déc 2023 @ 10:25
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.22087
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => l01QNRZYHBkekoeQX2lOM8zJVS9gy3iBHwNg26MqYjM=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 30d76f704f23f7daf92ae61f6484224f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:25:00 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833d0569df726ecd-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:32:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 01202576b9a4cea5078de2f542b61e8c
+            [Date] => 11 Déc 2023 @ 10:32
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/created
+            [Duration] => 0.30236
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.created
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => wLUkGCI0dzIXnymi13qE6VBCtUe7bgEMnbe4tX3LBIQ=
+                            [X-WC-Webhook-ID] => 13
+                            [X-WC-Webhook-Delivery-ID] => 01202576b9a4cea5078de2f542b61e8c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:32:16 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833d100bdbf46f70-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:32:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 169010ce491858277dd55ab3262dac66
+            [Date] => 11 Déc 2023 @ 10:32
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/customer/updated
+            [Duration] => 0.07847
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => customer.updated
+                            [X-WC-Webhook-Resource] => customer
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wLUkGCI0dzIXnymi13qE6VBCtUe7bgEMnbe4tX3LBIQ=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 169010ce491858277dd55ab3262dac66
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:32:16 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833d100c6e3af10c-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-12-11T10:32:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e499c8e32a617f30c6ca35843b122962
+            [Date] => 11 Déc 2023 @ 10:32
+            [URL] => https://plugins.crisp.chat/urn:crisp.im:woocommerce:0/event/website/38860c9d-79db-4b04-964c-7c853cde678b/order/created
+            [Duration] => 0.1179
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.3.1 Hookshot (WordPress/6.4.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.maisontoufet.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => +CV8lIHOK3isgMprJfkfZ8LtR5WcZEpLNh108Y4JCkg=
+                            [X-WC-Webhook-ID] => 15
+                            [X-WC-Webhook-Delivery-ID] => e499c8e32a617f30c6ca35843b122962
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 11 Dec 2023 10:32:16 GMT
+                                    [content-length] => 0
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 833d100d0cd200ca-CDG
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
